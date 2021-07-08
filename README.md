@@ -1,17 +1,18 @@
 # Pancreatic-cancer-study
 
-Contributors
+# Contributors
 
 Cynthia Kahindi,Noah Kandie, Kevin Kirotich, Veronica Isiaho Ian Mugambi
 
 
-
+# Objectives
 The main objective of  this study is to investigate the link between detection stages and cancer progression in cancer patients. 
 
 The secondary objective will be to show the relationship between presence of comorbidities and remission of pancreatic cancer in cancer patients.
 
 
 
+# Tools 
 Setup/Installation Requirements Please run the notebook on google colab.
 
 Python data science packages Numpy and Pandas were used to load the data set and do the analysis.
